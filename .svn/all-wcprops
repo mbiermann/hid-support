@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/144/trunk
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/141/trunk/control
+END
+hid-support.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/80/trunk/hid-support.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/132/trunk/Makefile
+END
+hid-support-internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/115/trunk/hid-support-internal.h
+END

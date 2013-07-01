@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/143/trunk/hidspringboard
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/30/trunk/hidspringboard/control
+END
+hidspringboard.plist
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/115/trunk/hidspringboard/hidspringboard.plist
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/143/trunk/hidspringboard/Makefile
+END
+Tweak.xm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/140/trunk/hidspringboard/Tweak.xm
+END
